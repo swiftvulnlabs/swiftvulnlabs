@@ -1,6 +1,6 @@
 ---
 title: Generic Page
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+subtitle: ''
 background_style: style5
 layout: page
 
