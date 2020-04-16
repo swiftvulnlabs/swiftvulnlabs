@@ -25,3 +25,11 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
+menu:
+  main:
+  - name: Contact
+    weight: 5
+  - name: Blogs
+    weight: 4
+  - name: Labs
+    weight: 2
