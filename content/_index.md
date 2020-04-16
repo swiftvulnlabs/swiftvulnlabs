@@ -102,20 +102,11 @@ sections:
   component: features.html
 - type: cta
   template: cta
-  title: Arcue ut vel commodo
-  text: Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend
-    fringilla.
+  title: A
+  text: ''
   section_id: cta
   background_style: style4
-  actions:
-  - label: Activate
-    url: "/generic"
-    is_scrolly: false
-    is_primary: true
-  - label: Learn More
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
+  actions: []
   component: cta.html
 layout: home
 menu:
