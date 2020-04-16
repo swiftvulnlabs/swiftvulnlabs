@@ -1,7 +1,7 @@
 ---
 title: Home
 banner:
-  title: "."
+  title: " "
   subtitle: ''
   actions:
   - label: Enter The Lab
