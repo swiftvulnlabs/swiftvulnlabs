@@ -1,7 +1,7 @@
 ---
 title: Home
 banner:
-  title: " SWIFT VULN LABS"
+  title: WELCOME
   subtitle: |-
      
 
