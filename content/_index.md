@@ -4,7 +4,7 @@ banner:
   title: SWIFT VULN LABS
   subtitle: Where a bean can be a bean
   actions:
-  - label: Activate
+  - label: Enter The Lab
     url: "/generic"
     is_scrolly: false
     is_primary: true
