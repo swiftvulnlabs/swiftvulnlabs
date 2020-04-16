@@ -2,7 +2,7 @@
 title: Home
 banner:
   title: SWIFT VULN LABS
-  subtitle: "Blandit duis accumsan  \narcu sagittis viverra  \nblandit at Interdum."
+  subtitle: Where a bean can be a bean
   actions:
   - label: Activate
     url: "/generic"
