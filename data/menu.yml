@@ -1,8 +1,2 @@
 ---
-actions:
-- label: Labs
-  url: ''
-- label: Sign Up
-  url: "/generic"
-- label: Log In
-  url: "/generic"
+actions: []
