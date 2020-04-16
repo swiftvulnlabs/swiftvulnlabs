@@ -102,7 +102,7 @@ sections:
   component: features.html
 - type: cta
   template: cta
-  title: A
+  title: " "
   text: ''
   section_id: cta
   background_style: style4
