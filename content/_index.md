@@ -2,7 +2,7 @@
 title: Home
 banner:
   title: SWIFT VULN LABS
-  subtitle: Where a bean can be a bean
+  subtitle: ''
   actions:
   - label: Enter The Lab
     url: "/generic"
