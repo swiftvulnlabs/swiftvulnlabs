@@ -1,6 +1,6 @@
 ---
 title: Elements
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+subtitle: ''
 layout: elements
 menu:
   main:
